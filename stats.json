@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Rotate_Array": true
+    "GeeksForGeeks_Rotate_Array": true,
+    "GeeksForGeeks_Missing_in_Array": true
   },
   "activityHistory": {
-    "2026-08-20": 1
+    "2026-08-20": 2
   },
   "todayProblems": [
-    "Rotate Array"
+    "Rotate Array",
+    "Missing in Array"
   ]
 }
