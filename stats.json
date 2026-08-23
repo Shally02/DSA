@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-22",
+  "totalSolved": 6,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-23",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -15,14 +15,16 @@
     "GeeksForGeeks_Missing_in_Array": true,
     "GeeksForGeeks_Segregate_0s_and_1s": true,
     "GeeksForGeeks_Wave_Array": true,
-    "GeeksForGeeks_Adding_One_to_Array": true
+    "GeeksForGeeks_Adding_One_to_Array": true,
+    "GeeksForGeeks_Addition": true
   },
   "activityHistory": {
     "2026-08-20": 3,
     "2026-08-21": 1,
-    "2026-08-22": 1
+    "2026-08-22": 1,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Adding One to Array"
+    "Addition"
   ]
 }
