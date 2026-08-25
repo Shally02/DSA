@@ -6,3 +6,4 @@
 | 4 | [Wave Array](./GeeksForGeeks/Medium/Wave%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1) | Medium | 21 Aug 2026 | 10:59 pm |
 | 5 | [Adding One to Array](./GeeksForGeeks/Easy/Adding%20One%20to%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adding-one2529/1) | Easy | 22 Aug 2026 | 05:54 pm |
 | 6 | [Addition](./GeeksForGeeks/Easy/Addition) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/addition/1) | Easy | 23 Aug 2026 | 06:59 pm |
+| 7 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 25 Aug 2026 | 10:18 pm |
