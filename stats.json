@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -18,7 +18,8 @@
     "GeeksForGeeks_Adding_One_to_Array": true,
     "GeeksForGeeks_Addition": true,
     "LeetCode_Rotate_Array": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true
   },
   "activityHistory": {
     "2026-08-20": 3,
@@ -26,9 +27,10 @@
     "2026-08-22": 1,
     "2026-08-23": 1,
     "2026-08-24": 1,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Check if Array Is Sorted and Rotated"
   ]
 }
