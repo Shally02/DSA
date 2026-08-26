@@ -8,3 +8,4 @@
 | 6 | [Addition](./GeeksForGeeks/Easy/Addition) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/addition/1) | Easy | 23 Aug 2026 | 06:59 pm |
 | 7 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 25 Aug 2026 | 10:18 pm |
 | 8 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 25 Aug 2026 | 10:47 pm |
+| 9 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 27 Aug 2026 | 12:34 am |
