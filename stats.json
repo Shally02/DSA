@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 1,
+  "totalSolved": 14,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-15",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -23,7 +23,8 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-20": 3,
@@ -33,10 +34,10 @@
     "2026-08-24": 1,
     "2026-08-25": 2,
     "2026-08-27": 2,
-    "2026-11-15": 2
+    "2026-11-15": 2,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Two Sum II - Input Array Is Sorted",
-    "3Sum"
+    "Container With Most Water"
   ]
 }
