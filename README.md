@@ -16,3 +16,4 @@
 | 14 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 16 Nov 2026 | 02:09 am |
 | 15 | [Max Sum Subarray of Size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 16 Nov 2026 | 09:14 pm |
 | 16 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 16 Nov 2026 | 10:19 pm |
+| 17 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 16 Nov 2026 | 11:25 pm |
