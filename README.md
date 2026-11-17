@@ -17,3 +17,4 @@
 | 15 | [Max Sum Subarray of Size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 16 Nov 2026 | 09:14 pm |
 | 16 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 16 Nov 2026 | 10:19 pm |
 | 17 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 16 Nov 2026 | 11:25 pm |
+| 18 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 17 Nov 2026 | 09:13 pm |
