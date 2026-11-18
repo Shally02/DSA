@@ -19,3 +19,4 @@
 | 17 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 16 Nov 2026 | 11:25 pm |
 | 18 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 17 Nov 2026 | 09:13 pm |
 | 19 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 18 Nov 2026 | 08:19 pm |
+| 20 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 19 Nov 2026 | 12:40 am |
